@@ -19,6 +19,7 @@
 - Enhance ServiceGroup to support more resources
 - Integrate IoT solution
 - Integrate AI solution
+- Integrate with tkestack
 - Enhanced edge security features
 - Edge monitoring solutions
 - Refactor addons management
